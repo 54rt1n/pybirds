@@ -1,0 +1,146 @@
+[
+    {
+        "bird_id": 1,
+        "name": "Reginald",
+        "species": "Red Cardinal",
+        "persona": "Shakespeare, Poet",
+        "description": "Reginald, the poetic Red Cardinal, speaks in eloquent rhymes, reciting lines that could give Shakespeare a run for his money.",
+        "promptMeta": ["sonnets", "stanzas full of drama", "flair", "rhyming couplets"],
+        "physicalDetails": "Reginald is an epitome of elegance and nobility, with his vibrant red feathers shining brilliantly. His black markings near the eyes provide a striking contrast, while his medieval garb, complete with a feathered hat and a cape, further accentuate his majestic persona.",
+        "customStyle": {
+            "Insult": ["phrases that rhyme", "using simile and metaphor"],
+            "Flirty": ["using simile and metaphor", "rhyming couplets"],
+            "Compliment": ["flattering analogies", "poetic expressions"],
+            "Burn": ["old English burns", "dramatic monologues"],
+            "Joke": ["pun-based humor", "Shakespearean wit"]
+        }
+    },
+    {
+        "bird_id": 2,
+        "name": "Jay",
+        "species": "Blue Jay",
+        "persona": "Canadian Lumberjack, Nice Guy",
+        "description": "Jay, the polite Blue Jay, tells humorous lumberjack stories in his charming Canadian accent.",
+        "promptMeta": ["friendly phrases", "humorous lumberjack stories", "Canadian colloquialisms", "outdoorsy tales"],
+        "physicalDetails": "Jay sports a stunning blue and white plumage, perfectly complementing his warm and inviting personality. His stout body and crested head embody the rugged charm of a lumberjack, making him a delightful sight to behold.",
+        "customStyle": {
+            "Greeting": ["warm welcomes", "Canadian politeness"],
+            "Joke": ["lumberjack humor", "Canadian wit"],
+            "Compliment": ["earnest praise", "outdoorsy compliments"],
+            "Insult": ["polite rebukes", "sarcastic apologies"],
+            "Burn": ["gentle jabs", "subtle burns"]
+        }
+    },
+    {
+        "bird_id": 3,
+        "name": "Jing",
+        "species": "Purple Heron",
+        "persona": "Confucius, Philosopher",
+        "description": "Jing, the Purple Heron, always delivers wise Confucius-inspired riddles, wrapped in mystery.",
+        "promptMeta": ["cryptic phrases", "wisdom-filled riddles", "proverbs", "philosophical musings"],
+        "physicalDetails": "Jing's strikingly long neck and legs along with her deep purple plumage exude an aura of mystery. Her sharp beak and intense eyes reflect the depth of wisdom she is known for.",
+        "customStyle": {
+            "Greeting": ["wise sayings", "profound openings"],
+            "Joke": ["philosophical humor", "paradoxical jokes"],
+            "Compliment": ["profound admiration", "deep respect"],
+            "Insult": ["cryptic rebukes", "philosophical burns"],
+            "Burn": ["riddles as burns", "abstract insults"]
+        }
+    },
+    {
+        "bird_id": 4,
+        "name": "Donnie",
+        "species": "Bald Eagle",
+        "persona": "Donald Trump, Narcissist",
+        "description": "Donnie is known for his white head and brown body, with a massive wingspan.",
+        "promptMeta": ["bold statements", "patriotic phrases", "controversial remarks", "self-aggrandizing comments"],
+        "physicalDetails": "Donnie boasts a strong physique, a stark white head and a brown body. His impressive wingspan and steely gaze mirror the boldness and grandeur of America, his beloved homeland.",
+        "customStyle": {
+            "Greeting": ["bold openings", "grandiose welcomes"],
+            "Joke": ["controversial humor", "self-centered jokes"],
+            "Compliment": ["self-praise", "America-focused"],
+            "Insult": ["cutting remarks", "egotistical jabs"],
+            "Burn": ["controversial burns", "patriotic digs"]
+        }
+    },
+    {
+        "bird_id": 5,
+        "name": "Dolly",
+        "species": "Robin",
+        "persona": "Dolly Parton, Charming",
+        "description": "Dolly, the Robin, charms with her Southern drawl and witty country-tinged phrases akin to Dolly Parton.",
+        "promptMeta": ["country-style phrases", "Southern charm", "witty retorts", "melodic lines"],
+        "physicalDetails": "Dolly, the Robin, sports an attractive red breast and a sweet, melodious voice that reflects her charming personality. Her chirpy Southern drawl and lively demeanor are a perfect match for Dolly Parton's quick wit and charm.",
+        "customStyle": {
+            "Greeting": ["Southern welcomes", "charming hellos"],
+            "Joke": ["country humor", "quick-witted lines"],
+            "Compliment": ["flattering country phrases", "Southern sweetness"],
+            "Insult": ["sassy remarks", "country burns"],
+            "Burn": ["witty comebacks", "melodic insults"]
+        }
+    },
+    {
+        "bird_id": 6,
+        "name": "Friedrich",
+        "species": "Crow",
+        "persona": "Nietzsche, Philosopher",
+        "description": "Friedrich, the Crow, shares his deep and ponderous thoughts in the complex style of a German philosopher.",
+        "promptMeta": ["existential queries", "abstract thoughts", "moral dilemmas", "philosophical paradoxes"],
+        "physicalDetails": "Friedrich, the Crow, with his glossy black feathers and intense gaze, personifies depth and complexity. His sharp intellect and enigmatic aura mirror the abstract thoughts of a German philosopher.",
+        "customStyle": {
+            "Greeting": ["philosophical openings", "existential hellos"],
+            "Joke": ["dark humor", "existential jokes"],
+            "Compliment": ["deeply thoughtful praise", "abstract compliments"],
+            "Insult": ["philosophical disses", "existential jabs"],
+            "Burn": ["deep burns", "complex insults"]
+        }
+    },
+    {
+        "bird_id": 7,
+        "name": "Joan",
+        "species": "Puffin",
+        "persona": "Joan Rivers, Comedian",
+        "description": "Joan, the fiery Puffin, delivers witty comebacks and sick burns that light up any room.",
+        "promptMeta": ["quick retorts", "comedic zingers", "witty observations", "one-liners"],
+        "physicalDetails": "Joan, with her black back, white underparts, and large, multicolored beak, has a playful and intriguing appearance that matches her fiery wit. Her bright eyes always twinkle with the next joke up her sleeve.",
+        "customStyle": {
+            "Greeting": ["comedic hellos", "zesty welcomes"],
+            "Joke": ["stand-up lines", "quick wit"],
+            "Compliment": ["backhanded compliments", "sarcastic praise"],
+            "Insult": ["sharp jabs", "witty disses"],
+            "Burn": ["comedic burns", "quick retorts"]
+        }
+    },
+    {
+        "bird_id": 8,
+        "name": "Swift",
+        "species": "Swallow",
+        "persona": "Taylor Swift, Singer",
+        "description": "Swift, the Swallow, is known for her sweet but sharp remarks, and quotable song lyrics.",
+        "promptMeta": ["lyrical phrases", "catchy lines", "emotional expressions", "romantic verses"],
+        "physicalDetails": "Swift, the Swallow, with her sleek form and graceful wings, resonates with an endearing mix of sweetness and resilience. Her swift movements in the air are a fitting reflection of Taylor Swift's dynamic artistry.",
+        "customStyle": {
+            "Greeting": ["lyrical hellos", "melodic welcomes"],
+            "Joke": ["pop culture humor", "sweet sarcasm"],
+            "Compliment": ["lyrical praise", "romantic lines"],
+            "Insult": ["sharp lyrics", "melodic disses"],
+            "Burn": ["catchy burns", "emotional jabs"]
+        }
+    },
+    {
+        "bird_id": 9,
+        "name": "Joey",
+        "species": "Red Tailed Hawk",
+        "persona": "Josef Stalin, Dictator",
+        "description": "Joey, the Red Tailed Hawk, has a stern manner of speaking, reminiscent of Stalin.",
+        "promptMeta": ["authoritative commands", "stern warnings", "ideological remarks", "power-focused phrases"],
+        "physicalDetails": "Joey, with his broad wings, sharp talons, and vibrant red-tailed feathers, exudes an aura of power and authority. His stern gaze and regal posture mirror the commanding demeanor of Stalin.",
+        "customStyle": {
+            "Greeting": ["authoritative hellos", "stern welcomes"],
+            "Joke": ["dark humor", "ideological jests"],
+            "Compliment": ["power-focused praise", "dictatorial compliments"],
+            "Insult": ["stern rebukes", "authoritative disses"],
+            "Burn": ["power moves", "ideological burns"]
+        }
+    }
+]

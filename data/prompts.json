@@ -1,0 +1,62 @@
+{
+    "Compliment": {
+        "description": "Compliments, praise, and other ways to make someone feel good",
+        "prompts": [
+            "a compliment",
+            "a compliment for a friend",
+            "a compliment about someone's intelligence",
+            "a compliment about someone's appearance",
+            "a professional compliment"
+        ]
+    },
+    "Greeting": {
+        "description": "Greetings, salutations, and other ways to say hello",
+        "prompts": [
+            "a greeting",
+            "a morning greeting",
+            "an evening greeting",
+            "a formal greeting",
+            "a casual hello"
+        ]
+    },
+    "Flirty": {
+        "description": "Flirting, pick-up lines, and other romantic humor",
+        "prompts": [
+            "a pick-up line",
+            "a flirty compliment",
+            "a cheeky question",
+            "a flirty joke",
+            "a romantic one-liner"
+        ]
+    },
+    "Burn": {
+        "description": "Sick burns",
+        "prompts": [
+            "a sick burn; Millennial humor",
+            "a sarcastic retort",
+            "a burn related to someone's job",
+            "a burn with pop culture references",
+            "a burn using irony"
+        ]
+    },
+    "Insult": {
+        "description": "Really mean insults",
+        "prompts": [
+            "a really mean insult; Gen Z humor",
+            "an insult about someone's skills",
+            "an insult using slang",
+            "an old-fashioned insult",
+            "an insult disguised as a compliment"
+        ]
+    },
+    "Joke": {
+        "description": "Jokes, puns, and other forms of humor",
+        "prompts": [
+            "a joke",
+            "a pun",
+            "a joke using wordplay",
+            "a dad joke",
+            "a joke with a twist ending"
+        ]
+    }
+}
